@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, eu sou o Antonio Jean, estudante de Ciência da Computação (5° período) e apaixonado por desenvolvimento front-end e cibersegurança. Tenho experiência com suporte técnico, integração de sistemas e atualmente foco no desenvolvimento de interfaces responsivas, intuitivas e conectadas a APIs. Então, bora pra cima 🚀.
+  Oi, Apesar de não utilizar muito o GitHub, cá estamos... Muito prazer Leitor, sou o Antonio Jean, estudante de Ciência da Computação (5° período) e apaixonado por desenvolvimento front-end e cibersegurança. Tenho experiência com suporte técnico, integração de sistemas e atualmente foco no desenvolvimento de interfaces responsivas, intuitivas e conectadas a APIs. Então, bora pra cima 🚀.
 </p>
 
  💻 Tecnologias:
